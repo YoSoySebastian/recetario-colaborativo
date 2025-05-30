@@ -74,6 +74,21 @@ Pasos:
 ### 🍨 Neblina Dulce de Cereal
 
 **Ingredientes:**
+- 1 taza de helado de chocolate
+- 1/2 taza de chispas de chocolate
+- 1/2 taza de galletas trituradas
+- 1 banana en rodajas
+- Sirope de caramelo
+
+**Pasos:**
+1. Mezclar el helado con las galletas trituradas.
+2. Agregar las chispas de chocolate y las rodajas de banana.
+3. Rociar con sirope de caramelo.
+4. Congelar 15 minutos más.
+5. Servir en copa con galleta decorativa.
+
+
+**Ingredientes:**
 - 1 taza de helado de vainilla
 - 1 taza de cereal de colores (tipo Froot Loops)
 - 3 cucharadas de leche condensada
