@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/Rama-1
 # recetario
 
 
@@ -51,4 +55,22 @@ Pasos:
 
 ## Receta Inventada (Postre colaborativo)
 ...
+<<<<<<< HEAD
+>>>>>>> origin/Rama-1
+=======
+=======
+# recetario
+
+
+# Recetario Colaborativo de Sebastian y Mijail
+
+## Recetas Dulces
+...
+
+## Recetas Saladas
+...
+
+## Receta Inventada (Postre colaborativo)
+...
+>>>>>>> origin/Rama-1
 >>>>>>> origin/Rama-1
