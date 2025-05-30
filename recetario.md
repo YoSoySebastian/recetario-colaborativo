@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 =======
-<<<<<<< HEAD
->>>>>>> origin/Rama-1
+
 # recetario
 
 
@@ -86,39 +84,20 @@ Pasos:
 3. Incorporar el cereal y los malvaviscos.
 4. Volver a congelar por 20 minutos.
 5. Servir con toppings extra al gusto.
+=======
+- 1 taza de helado de chocolate
+- 1/2 taza de chispas de chocolate
+- 1/2 taza de galletas trituradas
+- 1 banana en rodajas
+- Sirope de caramelo
+
+**Pasos:**
+1. Mezclar el helado con las galletas trituradas.
+2. Agregar las chispas de chocolate y las rodajas de banana.
+3. Rociar con sirope de caramelo.
+4. Congelar 15 minutos más.
+5. Servir en copa con galleta decorativa.
 
 
 
 =======
-# recetario
-
-
-# Recetario Colaborativo de Sebastian y Mijail
-
-## Recetas Dulces
-...
-
-## Recetas Saladas
-...
-
-## Receta Inventada (Postre colaborativo)
-...
-<<<<<<< HEAD
->>>>>>> origin/Rama-1
-=======
-=======
-# recetario
-
-
-# Recetario Colaborativo de Sebastian y Mijail
-
-## Recetas Dulces
-...
-
-## Recetas Saladas
-...
-
-## Receta Inventada (Postre colaborativo)
-...
->>>>>>> origin/Rama-1
->>>>>>> origin/Rama-1
