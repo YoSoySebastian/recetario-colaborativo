@@ -19,3 +19,7 @@ git commit - para agregar un nuevo commit, con lo que añadi cada parte de la re
 git push - para subir mis cambios al repositorio
 git pull - para actualizar los ultimos cambios, como solía hacer tras cada cambio de mi otra cuenta
 git merge - para combinar ramas, como hicimos con rama-1 y rama-2 con el main
+
+## Conflictos resueltos
+
+Los conflictos como fue hacer los 2 merge al mismo tiempo, se resolvieron mediante GitKraken acomodando al texto para que no seleccionara solo uno, tambien se podria haber resuelto desde github a la hora de hacer un PR. 
