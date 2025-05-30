@@ -24,6 +24,21 @@ Pasos:
 3. Agregar las frutas.
 4. Servir por capas y refrigerar 30 minutos.
 
+
+### 🍪 Galletas de Avena y Plátano  
+**Ingredientes:**  
+- 2 plátanos maduros  
+- 1 taza de avena en hojuelas  
+- 1/2 cucharadita de canela  
+- 1/4 taza de chips de chocolate (opcional)
+
+**Pasos:**  
+1. Aplastar los plátanos en un bowl.  
+2. Agregar la avena y la canela, mezclar bien.  
+3. Incorporar los chips de chocolate si se desea.  
+4. Formar bolitas y aplanarlas sobre una bandeja con papel vegetal.  
+5. Hornear a 180°C por 12-15 minutos.
+
 ## Recetas Saladas
 
 ### 🧀 Empanadas de Queso
@@ -38,6 +53,21 @@ Pasos:
 3. Pintar con huevo batido.
 4. Hornear a 200°C por 15 minutos.
 
+
+### 🥔 Tortilla de Papas Exprés  
+**Ingredientes:**  
+- 3 papas medianas  
+- 4 huevos  
+- 1/2 cebolla  
+- Aceite de oliva  
+- Sal y pimienta al gusto
+
+**Pasos:**  
+1. Pelar y cortar las papas en cubitos.  
+2. Sofreír las papas y la cebolla picada en aceite hasta que estén doradas.  
+3. Batir los huevos con sal y pimienta.  
+4. Mezclar con las papas y verter en una sartén caliente.  
+5. Cocinar por ambos lados hasta que esté dorada y firme.
 
 ## Receta Inventada (Postre colaborativo)
 ...
