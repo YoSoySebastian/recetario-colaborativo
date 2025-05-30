@@ -21,7 +21,19 @@ Pasos:
 4. Servir por capas y refrigerar 30 minutos.
 
 ## Recetas Saladas
-...
+
+### 🧀 Empanadas de Queso
+**Ingredientes:**
+- Masa para empanadas
+- 200g de queso fresco
+- 1 huevo para pintar
+
+Pasos:
+1. Rellenar cada masa con queso.
+2. Cerrar y presionar los bordes.
+3. Pintar con huevo batido.
+4. Hornear a 200°C por 15 minutos.
+
 
 ## Receta Inventada (Postre colaborativo)
 ...
