@@ -62,6 +62,13 @@ Pasos:
 - Aceite de oliva  
 - Sal y pimienta al gusto
 
+**Pasos:**  
+1. Pelar y cortar las papas en cubitos.  
+2. Sofreír las papas y la cebolla picada en aceite hasta que estén doradas.  
+3. Batir los huevos con sal y pimienta.  
+4. Mezclar con las papas y verter en una sartén caliente.  
+5. Cocinar por ambos lados hasta que esté dorada y firme.
+
 ## Receta Inventada (Postre colaborativo)
 ...
 =======
