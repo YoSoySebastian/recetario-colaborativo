@@ -70,7 +70,25 @@ Pasos:
 5. Cocinar por ambos lados hasta que esté dorada y firme.
 
 ## Receta Inventada (Postre colaborativo)
-...
+
+### 🍨 Neblina Dulce de Cereal
+
+**Ingredientes:**
+- 1 taza de helado de vainilla
+- 1 taza de cereal de colores (tipo Froot Loops)
+- 3 cucharadas de leche condensada
+- 1 puñado de malvaviscos pequeños
+- 1 cucharadita de esencia de vainilla
+
+**Pasos:**
+1. En un bowl, colocar el helado ligeramente derretido.
+2. Agregar la leche condensada y la esencia de vainilla, mezclar.
+3. Incorporar el cereal y los malvaviscos.
+4. Volver a congelar por 20 minutos.
+5. Servir con toppings extra al gusto.
+
+
+
 =======
 # recetario
 
