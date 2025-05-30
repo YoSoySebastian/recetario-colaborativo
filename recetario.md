@@ -54,6 +54,14 @@ Pasos:
 4. Hornear a 200°C por 15 minutos.
 
 
+### 🥔 Tortilla de Papas Exprés  
+**Ingredientes:**  
+- 3 papas medianas  
+- 4 huevos  
+- 1/2 cebolla  
+- Aceite de oliva  
+- Sal y pimienta al gusto
+
 ## Receta Inventada (Postre colaborativo)
 ...
 =======
