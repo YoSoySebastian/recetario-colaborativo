@@ -24,6 +24,14 @@ Pasos:
 3. Agregar las frutas.
 4. Servir por capas y refrigerar 30 minutos.
 
+
+### 🍪 Galletas de Avena y Plátano  
+**Ingredientes:**  
+- 2 plátanos maduros  
+- 1 taza de avena en hojuelas  
+- 1/2 cucharadita de canela  
+- 1/4 taza de chips de chocolate (opcional)
+
 ## Recetas Saladas
 
 ### 🧀 Empanadas de Queso
