@@ -32,6 +32,13 @@ Pasos:
 - 1/2 cucharadita de canela  
 - 1/4 taza de chips de chocolate (opcional)
 
+**Pasos:**  
+1. Aplastar los plátanos en un bowl.  
+2. Agregar la avena y la canela, mezclar bien.  
+3. Incorporar los chips de chocolate si se desea.  
+4. Formar bolitas y aplanarlas sobre una bandeja con papel vegetal.  
+5. Hornear a 180°C por 12-15 minutos.
+
 ## Recetas Saladas
 
 ### 🧀 Empanadas de Queso
